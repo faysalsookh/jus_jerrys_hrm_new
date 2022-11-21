@@ -32,7 +32,7 @@ class _SplashScreenState extends State<SplashScreen> {
                           scaleEnabled: false,
                           boundaryMargin: const EdgeInsets.symmetric(horizontal: 16.0),
                           child: Image.asset(
-                            "assets/images/app_logo.png",
+                            "assets/images/app_icon_title.png",
                             scale: 3,
                           ),
                         ),

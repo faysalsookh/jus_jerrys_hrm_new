@@ -161,7 +161,7 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => MenuProvider()),
       ],
       child: MaterialApp(
-        title: '24HOURWORX',
+        title: 'Jus &amp; Jerry\'s HRM',
         navigatorKey: navigatorKey,
         initialRoute: '/',
         routes: {
